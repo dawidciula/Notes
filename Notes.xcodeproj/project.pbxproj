@@ -14,6 +14,7 @@
 		C2489D202AA515FF002FC0F9 /* Notes.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = C2489D1E2AA515FF002FC0F9 /* Notes.xcdatamodeld */; };
 		C2489D222AA51600002FC0F9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C2489D212AA51600002FC0F9 /* Assets.xcassets */; };
 		C2489D252AA51600002FC0F9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C2489D232AA51600002FC0F9 /* LaunchScreen.storyboard */; };
+		C2489D2D2AA51761002FC0F9 /* AddNoteViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2489D2C2AA51761002FC0F9 /* AddNoteViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		C2489D212AA51600002FC0F9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C2489D242AA51600002FC0F9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C2489D262AA51600002FC0F9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C2489D2C2AA51761002FC0F9 /* AddNoteViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddNoteViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -42,6 +44,7 @@
 		C2489D092AA515FF002FC0F9 = {
 			isa = PBXGroup;
 			children = (
+				C2489D2C2AA51761002FC0F9 /* AddNoteViewController.swift */,
 				C2489D142AA515FF002FC0F9 /* Notes */,
 				C2489D132AA515FF002FC0F9 /* Products */,
 			);
@@ -144,6 +147,7 @@
 				C2489D1A2AA515FF002FC0F9 /* ViewController.swift in Sources */,
 				C2489D162AA515FF002FC0F9 /* AppDelegate.swift in Sources */,
 				C2489D182AA515FF002FC0F9 /* SceneDelegate.swift in Sources */,
+				C2489D2D2AA51761002FC0F9 /* AddNoteViewController.swift in Sources */,
 				C2489D202AA515FF002FC0F9 /* Notes.xcdatamodeld in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
